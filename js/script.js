@@ -18,39 +18,46 @@ Project 4 - Random Quote Generator
 const quotes = [
   { 
     quote: `Correction does much, but encouragement does more.`, 
-    source: `- Johan Wolfgang Von Goethe`,
+    source: `Johan Wolfgang Von Goethe`,
     citation: `Götz von Berlichingen`,
     year: `1773`,
     tags: 'Motivation'
   },
   { 
     quote: `Always turn a negative situation into a positive situation.`, 
-    source: `- Michael Jordan`,
+    source: `Michael Jordan`,
     citation: `TV interview`,
     year: `1995`,
     tags: 'Sports'
    },
   { 
     quote: `In order to carry a positive action we must develop here a positive vision.`, 
-    source: `- 14th Dalai Lama`,
+    source: `14th Dalai Lama`,
     citation: `Speech at Sissu, Lahau`,
     year: `2014`,
     tags: `Spiritual`
   },
   { 
     quote: `Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.`,
-    source: `- Roy T. Bennett`,
+    source: `Roy T. Bennett`,
     citation: `The Light in the Heart`,
     year: `2020`,
     tags: `Inspirational`
   },
   { 
     quote: `Science is not only a disciple of reason but, also, one of romance and passion.`, 
-    source: `- Stephen Hawking`,
+    source: `Stephen Hawking`,
     citation: `On the Shoulders of Giants`,
     year: `2002`,
     tags: `Science`
   },
+  {
+    quote: `Compare yourself to who you were yesterday, not to who someone else is today.`,
+    source: `Jordan B. Peterson`,
+    citation: `12 Rules for Life`,
+    year: `2018`,
+    tags: `Psychology`
+  }
   ]
 
 /***
